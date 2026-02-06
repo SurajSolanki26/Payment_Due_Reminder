@@ -1,0 +1,8 @@
+{
+  "project_id": "YOUR_PROJECT_ID",
+  "functions": [
+    {
+      "import_map": "./supabase/functions/import_map.json"
+    }
+  ]
+}
